@@ -6,7 +6,7 @@
 
 - 🎓 **Student:** Pursuing a dual degree in Mechanical Engineering and Computer Science at Duke University (Class of 2028).
 
-- 💼 **Currently:** Front-End Engineer at the Duke Product Lab, refining a clinical-trial documentation system for a local company.  
+- 💼 **Currently:** Software Engineer (Front-End) at the Duke Product Lab, refining a clinical-trial documentation system for a local company.  
   Engineering Teaching Assistant supporting first-year Duke students on personal projects.
 
 - 🏭 **Experience:** Incoming Manufacturing Engineer @ Stryker.  
